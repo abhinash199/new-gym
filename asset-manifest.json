@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/new-gym/static/css/main.6f5e4fe3.chunk.css",
+    "main.js": "/new-gym/static/js/main.32cac9c3.chunk.js",
+    "main.js.map": "/new-gym/static/js/main.32cac9c3.chunk.js.map",
+    "runtime-main.js": "/new-gym/static/js/runtime-main.b57bceb3.js",
+    "runtime-main.js.map": "/new-gym/static/js/runtime-main.b57bceb3.js.map",
+    "static/css/2.818011ed.chunk.css": "/new-gym/static/css/2.818011ed.chunk.css",
+    "static/js/2.7b07332a.chunk.js": "/new-gym/static/js/2.7b07332a.chunk.js",
+    "static/js/2.7b07332a.chunk.js.map": "/new-gym/static/js/2.7b07332a.chunk.js.map",
+    "static/js/3.78dc87bb.chunk.js": "/new-gym/static/js/3.78dc87bb.chunk.js",
+    "static/js/3.78dc87bb.chunk.js.map": "/new-gym/static/js/3.78dc87bb.chunk.js.map",
+    "index.html": "/new-gym/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/new-gym/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.6f5e4fe3.chunk.css.map": "/new-gym/static/css/main.6f5e4fe3.chunk.css.map",
+    "static/js/2.7b07332a.chunk.js.LICENSE.txt": "/new-gym/static/js/2.7b07332a.chunk.js.LICENSE.txt",
+    "static/media/pic1.de803a5f.jpg": "/new-gym/static/media/pic1.de803a5f.jpg",
+    "static/media/pic2.83d78091.jpg": "/new-gym/static/media/pic2.83d78091.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b57bceb3.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.7b07332a.chunk.js",
+    "static/css/main.6f5e4fe3.chunk.css",
+    "static/js/main.32cac9c3.chunk.js"
+  ]
+}
